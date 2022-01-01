@@ -9,3 +9,4 @@ There will be columns such as age, anemia, diabetes, ejection_fraction, high blo
 This data is relatively easy to collect. It will help patients or doctors predict heart failure percentage, which will ultimately help save a life.
 
 According To The Dataset 1 Means Having A Heart Failure 0 Means No.
+Heart failure prediction accuracy is 92%.
