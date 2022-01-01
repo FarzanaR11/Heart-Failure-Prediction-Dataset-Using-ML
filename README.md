@@ -8,5 +8,5 @@ We don't need to make additional assumptions or tune several parameters or build
 There will be columns such as age, anemia, diabetes, ejection_fraction, high blood pressure, serum creatinine, sex, smoking, and death events in that dataset. 
 This data is relatively easy to collect. It will help patients or doctors predict heart failure percentage, which will ultimately help save a life.
 
-According To The Dataset 1 Means Having A Heart Failure 0 Means No.
+According To The Dataset 1 Means Having A Heart Failure and 0 Means No.
 In this project, the accuracy of heart failure prediction using machine learning  is 92%.
